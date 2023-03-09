@@ -30,14 +30,15 @@
 |
 
 =====
-catan
+Catan Game
 =====
 
 
-    Add a short description here!
+    An implementation of the classic board game
 
 
-A longer description of your project goes here...
+A computer game version of the board game Catan that uses OpenGL for graphics and implements multiplayer
+through a client-server architecture.
 
 
 .. _pyscaffold-notes:
